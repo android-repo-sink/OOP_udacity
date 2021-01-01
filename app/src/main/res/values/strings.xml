@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OOP_udacitty</string>
+    <string name="title">App in English</string>
+    <string name="hello_world">App in French</string>
+</resources>
